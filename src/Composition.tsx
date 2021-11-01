@@ -1,3 +1,3 @@
-export const Composition = () => {
+export const MyComposition = () => {
 	return null;
 };
