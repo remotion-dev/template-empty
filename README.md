@@ -10,6 +10,12 @@ Welcome to your Remotion project!
 
 ## Commands
 
+**Install Dependencies**
+
+```console
+npm install
+```
+
 **Start Preview**
 
 ```console
