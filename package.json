@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "My Remotion video",
 	"scripts": {
-		"start": "remotion preview",
+		"start": "remotion studio",
 		"build": "remotion render MyComp out/video.mp4",
 		"upgrade": "remotion upgrade",
 		"test": "eslint src --ext ts,tsx,js,jsx && tsc"
@@ -17,7 +17,7 @@
 		"remotion": "4.0.0-alpha13"
 	},
 	"devDependencies": {
-		"@remotion/eslint-config": "^4.0.0-alpha13",
+		"@remotion/eslint-config": "4.0.0-alpha13",
 		"@types/react": "^18.0.26",
 		"@types/web": "^0.0.86",
 		"eslint": "^8.30.0",
