@@ -1,5 +1,5 @@
 {
-  "name": "remotion-template",
+  "name": "template-empty",
   "version": "1.0.0",
   "description": "My Remotion video",
   "scripts": {
@@ -23,5 +23,6 @@
     "eslint": "^8.43.0",
     "prettier": "^3.2.5",
     "typescript": "^5.4.5"
-  }
+  },
+  "private": true
 }
